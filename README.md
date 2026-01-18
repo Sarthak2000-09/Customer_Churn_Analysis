@@ -51,17 +51,29 @@ Key columns:
    - Visualized churn by contract type, tenure group, and monthly charges
    - Analyzed payment method impact on churn
 
-4. **Insights & Recommendations**  
-   - 'Month-to-month' contract customers show highest churn: 42.71%.
-     *Action:* Introduce loyalty incentives or longer-term plans  
-   -Customers in tenure group '0-1 yr' have highest churn risk: 47.68%.
-     *Action:* Target first-year customers with onboarding campaigns. 
-   - Average monthly charges for churned customers: $74.44, vs $61.27 for retained customers. 
-     *Action:* Offer flexible payment options for high-paying customers.  
-   - Long-tenure customers (4+ yr) are most stable with churn rate 9.51%.
-     *Action:* Reward loyalty through special offers or upselling. 
-   - Customers using 'Electronic check' payment method have highest churn: 45.29%.
-     *Action:* Simplify or incentivize preferred payment methods
+## 4. Insights & Recommendations
+
+- **'Month-to-month' contract customers** show highest churn: 42.71%  
+  **Action:**  
+  Introduce loyalty incentives or longer-term plans
+
+- **Customers in tenure group '0-1 yr'** have highest churn risk: 47.68%  
+  **Action:**  
+  Target first-year customers with onboarding campaigns
+
+- **Average monthly charges for churned customers:** $74.44  
+  **Average monthly charges for retained customers:** $61.27  
+  **Action:**  
+  Offer flexible payment options for high-paying customers
+
+- **Long-tenure customers (4+ yr)** are most stable with churn rate 9.51%  
+  **Action:**  
+  Reward loyalty through special offers or upselling
+
+- **Customers using 'Electronic check' payment method** have highest churn: 45.29%  
+  **Action:**  
+  Simplify or incentivize preferred payment methods
+
 
 ---
 
